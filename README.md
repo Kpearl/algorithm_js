@@ -1,3 +1,2 @@
-# algorithm
-1. HackerRank: 해커랭크 문제 풀이
-   
+# algorithm_js
+Programming Problem Solving with JavaScript on HackerRank Platform.
